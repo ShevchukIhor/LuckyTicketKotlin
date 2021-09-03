@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LuckyTicketKotlin</string>
+    <string name="et_hint_number">Enter a number</string>
+    <string name="btn_Run">Start</string>
+</resources>
