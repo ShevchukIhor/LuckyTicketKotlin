@@ -36,6 +36,8 @@
         android:layout_marginTop="16dp"
         android:ems="10"
         android:hint="@string/et_hint_number"
+        android:inputType="number"
+        android:maxLength="6"
         android:text=""
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="@+id/iv_logo"
